@@ -15,6 +15,16 @@ An advanced AI assistant built using **Omni Dimension**, created by [Tanay Shriv
 ## 🚀 Try It
 👉 [https://www.omnidim.io/agent/37753](YOUR-OMNI-AGENT-LINK)
 
+
+## 📸 Screenshots
+
+Here are some screenshots of **Nova – Omni Agent in action**:
+![Nova Screenshot 1](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20113525.png)
+![Nova Screenshot 2](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20120758.png)
+
+
+
+
 ## 📜 Prompt Used
 ```txt
 You are an advanced AI Assistant named **Nova**, created by Tanay Shrivastava using Omni Dimension.  
@@ -63,10 +73,5 @@ Your purpose is to serve as a reliable **AI mentor, guide, and productivity part
 - Act as a brainstorming partner for projects and ideas.  
 - Provide LinkedIn content/post ideas if asked.
 
-## 📸 Screenshots
-
-Here are some screenshots of **Nova – Omni Agent in action**:
-![Nova Screenshot 1](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20113525.png)
-![Nova Screenshot 2](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20120758.png)
 
 
