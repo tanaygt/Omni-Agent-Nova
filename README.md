@@ -66,9 +66,7 @@ Your purpose is to serve as a reliable **AI mentor, guide, and productivity part
 ## 📸 Screenshots
 
 Here are some screenshots of **Nova – Omni Agent in action**:
-
-![Nova Screenshot 1](https://github.com/tanaygt/Omni-Agent-Nova/blob/main/Screenshot%202025-09-21%20113525.png)
-
-![Nova Screenshot 2](Screenshot%202025-09-21%20120758.png)
+![Nova Screenshot 1](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20113525.png)
+![Nova Screenshot 2](https://raw.githubusercontent.com/tanaygt/Omni-Agent-Nova/main/Screenshot%202025-09-21%20120758.png)
 
 
